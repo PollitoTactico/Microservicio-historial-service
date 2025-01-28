@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ce3f5457-9b5b-4e13-9d94-1fc00e8301bb/resourceGroups/MicroserviciosGroupMovie/providers/Microsoft.Web/sites/historial-service",
+    "appService.deploySubpath": "."
 }
